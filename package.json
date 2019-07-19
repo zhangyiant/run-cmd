@@ -1,0 +1,22 @@
+{
+    "name": "@zhangyiant/run-cmd",
+    "version": "1.0.0",
+    "description": "run-cmd",
+    "homepage": "",
+    "keywords": [
+    ],
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Yi Zhang",
+    "license": "MIT",
+    "devDependencies": {
+      "typescript": "^3.4.5"
+    },
+    "dependencies": {
+      "@types/node": "^10.0.0"
+    }
+  }
